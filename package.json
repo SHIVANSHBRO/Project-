@@ -1,3 +1,4 @@
+
 {
   "name": "oriental-furnishing-works",
   "homepage": "https://shivanshbro.github.io/Project/",
@@ -10,7 +11,7 @@
     "dev": "vite",
     "lint": "eslint .",
     "preview": "vite preview",
-    "postinstall": "npm run build"
+    "postinstall": "npm run build",
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
